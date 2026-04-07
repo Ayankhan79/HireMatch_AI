@@ -1,0 +1,173 @@
+[
+  {
+    "role": "Data Analyst",
+    "required_skills": ["Python", "SQL", "Excel", "Tableau", "Data Cleaning"],
+    "expected_projects": [
+      "Built dashboards",
+      "Data analysis on business datasets",
+      "Reporting automation",
+      "Data cleaning pipelines"
+    ],
+    "preferred_education": ["B.Tech CSE", "BCA", "B.Sc CS", "MCA"],
+    "expected_certifications": [
+      "Google Data Analytics",
+      "Microsoft Power BI",
+      "SQL for Data Science"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Analyse business data, create dashboards, generate weekly reports."
+  },
+  {
+    "role": "ML Engineer",
+    "required_skills": ["Python", "SQL", "Scikit-learn", "TensorFlow", "Model Deployment"],
+    "expected_projects": [
+      "Built machine learning models",
+      "Deployed ML models",
+      "Prediction systems",
+      "Model monitoring pipelines"
+    ],
+    "preferred_education": ["B.Tech CSE", "MCA", "B.Sc CS"],
+    "expected_certifications": [
+      "Deep Learning AI",
+      "Coursera ML Specialization",
+      "AWS Cloud Practitioner"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Build and deploy ML models, maintain pipelines, monitor model drift."
+  },
+  {
+    "role": "Backend Developer",
+    "required_skills": ["Python", "SQL", "Django", "REST APIs", "PostgreSQL"],
+    "expected_projects": [
+      "Built REST APIs",
+      "Backend systems",
+      "Database design projects",
+      "Authentication systems"
+    ],
+    "preferred_education": ["B.Tech CSE", "BCA", "MCA"],
+    "expected_certifications": [
+      "AWS Cloud Practitioner",
+      "Docker Certification"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Develop scalable APIs, manage databases, write unit tests."
+  },
+  {
+    "role": "BI Analyst",
+    "required_skills": ["SQL", "Power BI", "Excel", "DAX", "Data Modelling"],
+    "expected_projects": [
+      "Built Power BI dashboards",
+      "Business reporting systems",
+      "Data modeling projects",
+      "KPI dashboards"
+    ],
+    "preferred_education": ["B.Com", "BBA", "B.Sc CS", "MBA Tech"],
+    "expected_certifications": [
+      "Microsoft Power BI",
+      "Google Data Analytics"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Build BI dashboards, write complex SQL queries, support stakeholders."
+  },
+  {
+    "role": "NLP Engineer",
+    "required_skills": ["Python", "NLP", "Transformers", "SQL", "Hugging Face"],
+    "expected_projects": [
+      "Text classification models",
+      "Chatbots",
+      "Sentiment analysis systems",
+      "Text summarisation models"
+    ],
+    "preferred_education": ["B.Tech CSE", "MCA", "B.Sc CS"],
+    "expected_certifications": [
+      "Deep Learning AI",
+      "Coursera NLP Specialization"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Build text classification and summarisation models for product teams."
+  },
+  {
+    "role": "Data Engineer",
+    "required_skills": ["Python", "SQL", "Spark", "Airflow", "AWS"],
+    "expected_projects": [
+      "ETL pipelines",
+      "Data warehouse systems",
+      "Streaming pipelines",
+      "Big data processing"
+    ],
+    "preferred_education": ["B.Tech CSE", "MCA", "B.Sc CS"],
+    "expected_certifications": [
+      "AWS Cloud Practitioner",
+      "Google Cloud Data Engineer"
+    ],
+    "experience_years": 2,
+    "responsibilities": "Design ETL pipelines, manage data warehouses, ensure data quality."
+  },
+  {
+    "role": "Product Analyst",
+    "required_skills": ["SQL", "Excel", "Python", "A/B Testing", "Mixpanel"],
+    "expected_projects": [
+      "A/B testing experiments",
+      "Product analytics dashboards",
+      "User behavior analysis",
+      "KPI tracking systems"
+    ],
+    "preferred_education": ["BBA", "B.Com", "B.Sc CS", "MBA Tech"],
+    "expected_certifications": [
+      "Google Data Analytics"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Track product KPIs, run experiments, present insights to PMs."
+  },
+  {
+    "role": "AI Research Intern",
+    "required_skills": ["Python", "PyTorch", "Mathematics", "SQL", "Research Writing"],
+    "expected_projects": [
+      "Research papers",
+      "ML experiments",
+      "Model implementation from papers",
+      "Literature reviews"
+    ],
+    "preferred_education": ["B.Tech CSE", "B.Sc CS", "MCA"],
+    "expected_certifications": [
+      "Deep Learning AI",
+      "Coursera ML Specialization"
+    ],
+    "experience_years": 0,
+    "responsibilities": "Assist in model research, run experiments, review literature."
+  },
+  {
+    "role": "Cloud Data Analyst",
+    "required_skills": ["SQL", "Python", "BigQuery", "Looker", "Data Studio"],
+    "expected_projects": [
+      "Cloud dashboards",
+      "BigQuery analytics",
+      "Looker reports",
+      "Data visualization projects"
+    ],
+    "preferred_education": ["B.Tech CSE", "BCA", "B.Sc CS"],
+    "expected_certifications": [
+      "Google Data Analytics",
+      "Google Cloud Certification"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Query cloud data warehouses, build Looker dashboards, write documentation."
+  },
+  {
+    "role": "Automation Engineer",
+    "required_skills": ["Python", "Selenium", "SQL", "REST APIs", "CI/CD"],
+    "expected_projects": [
+      "Automation scripts",
+      "Testing frameworks",
+      "Web scraping bots",
+      "CI/CD pipelines"
+    ],
+    "preferred_education": ["B.Tech CSE", "BCA", "MCA"],
+    "expected_certifications": [
+      "Selenium Certification",
+      "AWS Cloud Practitioner"
+    ],
+    "experience_years": 1,
+    "responsibilities": "Automate testing workflows, build bots, integrate with CI/CD pipelines."
+  }
+]
