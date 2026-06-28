@@ -44,4 +44,4 @@ streamlit run app.py
 - Resume scoring using custom embeddings
 
 ---
-**Built with Python, Streamlit, LLMs, and RAG to simulate a real-world AI-powered hiring system.**
+**Built with Python, Streamlit, LLMs, and RAG to simulate a real-world AI powered hiring system.**
