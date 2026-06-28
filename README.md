@@ -29,12 +29,10 @@ HireMatch-AI/
 │── data/
 │   ├── job_descriptions.json
 │   └── resumes.json
-│── requirements.txt
 ```
 
 ## ▶️ Run the Project
 ```bash
-pip install -r requirements.txt
 streamlit run app.py
 ```
 
